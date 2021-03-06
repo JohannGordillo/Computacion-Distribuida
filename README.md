@@ -20,29 +20,29 @@ y los ayudantes Ricardo Desales, Diego Estrada y José Nieves.
 
 ## Tareas :pencil:
 
-* [Tarea 01]()
+* [Tarea 01](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%201)
 
-* [Tarea 02]()
+* [Tarea 02](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%202)
 
-* [Tarea 03]() 
+* [Tarea 03](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%203) 
 
-* [Tarea 04]() 
+* [Tarea 04](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%204) 
 
-* [Tarea 05]() 
+* [Tarea 05](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%205) 
 
-* [Tarea 06]() 
+* [Tarea 06](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%206) 
 
-* [Tarea 07]()
+* [Tarea 07](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%207)
 
-* [Tarea 08]() 
+* [Tarea 08](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%208) 
 
-* [Tarea 09]() 
+* [Tarea 09](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%209) 
 
-* [Tarea 10]()
+* [Tarea 10](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%210)
 
-* [Tarea 11]()
+* [Tarea 11](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%211)
 
-* [Tarea 12]() 
+* [Tarea 12](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Tareas/Tarea%212) 
 
 ## Requisitos 📋
 
