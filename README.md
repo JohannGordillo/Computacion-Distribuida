@@ -6,17 +6,17 @@ y los ayudantes Ricardo Desales, Diego Estrada y José Nieves.
 
 ## Prácticas :file_folder:
 
-* [Práctica 01]()
+* [Práctica 01](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Practicas/Practica%201)
 
-* [Práctica 02]()
+* [Práctica 02](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Practicas/Practica%202)
 
-* [Práctica 03]()
+* [Práctica 03](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Practicas/Practica%203)
 
-* [Práctica 04]()
+* [Práctica 04](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Practicas/Practica%204)
 
-* [Práctica 05]()
+* [Práctica 05](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Practicas/Practica%205)
 
-* [Práctica 06]()
+* [Práctica 06](https://github.com/JohannGordillo/Computacion-Distribuida/tree/main/Practicas/Practica%206)
 
 ## Tareas :pencil:
 
